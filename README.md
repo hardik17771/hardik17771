@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Hardik Sachdeva</h1>
 <h3 align="center">Full Stack App and Blockchain Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardik17771" alt="hardik17771" /></a> </p>
+
 
 - 💻 I’m currently working on [Blogeva_Flutter](https://github.com/hardik17771/Blogeva_Flutter)
 
-- I’m currently learning **Rust**
+- 🧑‍💻 I’m currently learning **Rust**
 
 - 💬 Ask me about **Flutter, Blockchain, Firebase, NodeJS**
 
