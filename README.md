@@ -4,7 +4,7 @@
 
 
 
-- Portfolio Link: [Click to Open](hardik17771.github.io)
+- Portfolio Link: [Click to Open](https://hardik17771.github.io)
 
 - 💻 My Udemy Course [Flutter Course](https://www.udemy.com/course/flutter-from-scratch-the-complete-developer-course/?referralCode=5D008132245C2CABEEC6)
 
@@ -12,7 +12,7 @@
 
 - **Maintainer @CircuitVerse**
 
-- 💬 Ask me about **Flutter, BLoC, App dev, Firebase, NodeJS, any tech**
+- 💬 Ask me about **DSA, Flutter, BLoC, App dev, Firebase, NodeJS, any tech**
 
 - 📫 How to reach me **hardiksachdeva52@gmail.com**
 
