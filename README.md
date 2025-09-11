@@ -1,17 +1,21 @@
 <h1 align="center">Hey, I'm Hardik Sachdeva</h1>
-<h3 align="center">Full Stack App and Blockchain Developer</h3>
+<h3 align="center">Software Engineer/Full Stack App Developer</h3>
 
 
 
-- 💻 I’m currently working on [Blogeva_Flutter](https://github.com/hardik17771/Blogeva_Flutter)
+- Portfolio Link: [Click to Open](hardik17771.github.io)
 
-- 🧑‍💻 I’m currently learning **Rust**
+- 💻 My Udemy Course [Flutter Course](https://www.udemy.com/course/flutter-from-scratch-the-complete-developer-course/?referralCode=5D008132245C2CABEEC6)
 
-- 💬 Ask me about **Flutter, Blockchain, Firebase, NodeJS**
+- 🧑‍💻 I’m currently working as **Upcoming AEH Analyst @Accenture**
+
+- **Maintainer @CircuitVerse**
+
+- 💬 Ask me about **Flutter, BLoC, App dev, Firebase, NodeJS, any tech**
 
 - 📫 How to reach me **hardiksachdeva52@gmail.com**
 
-- 📄 Check Out My CV [https://drive.google.com/file/d/12x3s8IpOK3xPW_QvpAd0xU-lXylllj7X/view?usp=sharing](https://drive.google.com/file/d/12x3s8IpOK3xPW_QvpAd0xU-lXylllj7X/view?usp=sharing)
+- 📄 Check Out My CV [CV Drive Link](https://drive.google.com/file/d/1TkA8lywliMMPJnFE4csGXIn4WVk-8rTu/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
