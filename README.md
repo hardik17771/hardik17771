@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Hardik Sachdeva</h1>
 <h3 align="center">Software Engineer/Full Stack App Developer</h3>
+<h3 align="center">NIT Hamirpur 25'</h3>
 
 
 
