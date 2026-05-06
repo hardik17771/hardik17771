@@ -8,9 +8,9 @@
 
 - 💻 My Udemy Course [Flutter Course](https://www.udemy.com/course/flutter-from-scratch-the-complete-developer-course/?referralCode=5D008132245C2CABEEC6)
 
-- 🧑‍💻 I’m currently working as **Upcoming AEH Analyst @Accenture**
+- 🧑‍💻 I’m currently working as **AEH Analyst @Accenture**
 
-- **Maintainer @CircuitVerse**
+- **Project Maintainer @CircuitVerse**
 
 - 💬 Ask me about **DSA, Flutter, BLoC, App dev, Firebase, NodeJS, any tech**
 
